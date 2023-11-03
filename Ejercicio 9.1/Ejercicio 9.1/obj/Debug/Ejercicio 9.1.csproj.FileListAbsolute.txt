@@ -1,0 +1,9 @@
+C:\c#\TP 7\Ejercicio 9.1\Ejercicio 9.1\bin\Debug\Ejercicio 9.1.exe.config
+C:\c#\TP 7\Ejercicio 9.1\Ejercicio 9.1\obj\Debug\Ejercicio 9.1.csprojResolveAssemblyReference.cache
+C:\c#\TP 7\Ejercicio 9.1\Ejercicio 9.1\bin\Debug\Ejercicio 9.1.exe
+C:\c#\TP 7\Ejercicio 9.1\Ejercicio 9.1\bin\Debug\Ejercicio 9.1.pdb
+C:\c#\TP 7\Ejercicio 9.1\Ejercicio 9.1\obj\Debug\Ejercicio 9.1.exe
+C:\c#\TP 7\Ejercicio 9.1\Ejercicio 9.1\obj\Debug\Ejercicio 9.1.pdb
+C:\c#\Primer Año analista de sistema\TP 7\Ejercicio 9.1\Ejercicio 9.1\bin\Debug\Ejercicio 9.1.exe.config
+C:\c#\Primer Año analista de sistema\TP 7\Ejercicio 9.1\Ejercicio 9.1\obj\Debug\Ejercicio 9.1.exe
+C:\c#\Primer Año analista de sistema\TP 7\Ejercicio 9.1\Ejercicio 9.1\obj\Debug\Ejercicio 9.1.pdb
