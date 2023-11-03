@@ -1,0 +1,12 @@
+C:\C Sharp\c#\TP 7\Ejercicio 3\Ejercicio 3\bin\Debug\Ejercicio 3.exe.config
+C:\C Sharp\c#\TP 7\Ejercicio 3\Ejercicio 3\bin\Debug\Ejercicio 3.exe
+C:\C Sharp\c#\TP 7\Ejercicio 3\Ejercicio 3\bin\Debug\Ejercicio 3.pdb
+C:\C Sharp\c#\TP 7\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.csprojResolveAssemblyReference.cache
+C:\C Sharp\c#\TP 7\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.exe
+C:\C Sharp\c#\TP 7\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.pdb
+C:\c#\TP 7\Ejercicio 3\Ejercicio 3\bin\Debug\Ejercicio 3.exe.config
+C:\c#\TP 7\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.exe
+C:\c#\TP 7\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.pdb
+C:\c#\TP 7\Ejercicio 3\Ejercicio 3\bin\Debug\Ejercicio 3.exe
+C:\c#\TP 7\Ejercicio 3\Ejercicio 3\bin\Debug\Ejercicio 3.pdb
+C:\c#\TP 7\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.csprojResolveAssemblyReference.cache

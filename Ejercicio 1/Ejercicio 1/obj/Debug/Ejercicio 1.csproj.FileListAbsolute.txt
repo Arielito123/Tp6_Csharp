@@ -1,0 +1,6 @@
+C:\C Sharp\c#\TP 7\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+C:\C Sharp\c#\TP 7\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+C:\C Sharp\c#\TP 7\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+C:\C Sharp\c#\TP 7\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csprojResolveAssemblyReference.cache
+C:\C Sharp\c#\TP 7\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+C:\C Sharp\c#\TP 7\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.pdb
